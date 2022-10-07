@@ -1,6 +1,6 @@
 # Welcome to Edward's playground
 
-##
+
 -----------------
 |  ---     ---   |
 |  | |     |  |  |
